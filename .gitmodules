@@ -1,0 +1,3 @@
+[submodule "sm-components"]
+	path = sm-components
+	url = https://github.com/varunsh/sm-components.git
